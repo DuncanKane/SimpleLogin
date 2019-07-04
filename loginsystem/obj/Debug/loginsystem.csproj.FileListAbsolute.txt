@@ -1,0 +1,10 @@
+D:\Uni work\Code\C#\loginsystem\obj\Debug\loginsystem.csprojAssemblyReference.cache
+D:\Uni work\Code\C#\loginsystem\obj\Debug\loginsystem.Form1.resources
+D:\Uni work\Code\C#\loginsystem\obj\Debug\loginsystem.Properties.Resources.resources
+D:\Uni work\Code\C#\loginsystem\obj\Debug\loginsystem.csproj.GenerateResource.cache
+D:\Uni work\Code\C#\loginsystem\obj\Debug\loginsystem.csproj.CoreCompileInputs.cache
+D:\Uni work\Code\C#\loginsystem\bin\Debug\loginsystem.exe.config
+D:\Uni work\Code\C#\loginsystem\bin\Debug\loginsystem.exe
+D:\Uni work\Code\C#\loginsystem\bin\Debug\loginsystem.pdb
+D:\Uni work\Code\C#\loginsystem\obj\Debug\loginsystem.exe
+D:\Uni work\Code\C#\loginsystem\obj\Debug\loginsystem.pdb
